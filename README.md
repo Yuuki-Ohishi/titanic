@@ -15,10 +15,10 @@
 - Jupyter Notebook (Kaggle Notebook)
 
 ## フォルダ構成
-titanic/
-├── titanic-datasets.ipynb # 実装したNotebook 
-├── submission.csv # 提出用ファイル 
-└── README.md # このファイル
+titanic/  
+├── titanic-datasets.ipynb # 実装したNotebook  
+├── submission.csv # 提出用ファイル  
+└── README.md # このファイル  
 
 ## 今後の予定（Optional）
 - 特徴量エンジニアリングの強化
